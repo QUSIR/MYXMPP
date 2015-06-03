@@ -1,0 +1,2 @@
+python xmpp_tcp_tunneler_pyxmpp.py admin@localhost 123456 tls_noverify tunnels.conf
+python skype_tcp_tunneler.py  tunnels.conf
